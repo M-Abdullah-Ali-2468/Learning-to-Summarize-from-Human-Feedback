@@ -23,3 +23,5 @@ checkpoints/
 # Temporary files
 *.log
 .ipynb_checkpoints/
+
+checkpoints-20261112T212445Z-1-001.zip
